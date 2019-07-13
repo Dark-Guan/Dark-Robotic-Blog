@@ -7,7 +7,7 @@ description: "Every failure is leading towards success."
 keyword: "Dark AnanasStepper Ananas Robotic STM32 Linux AI "
 url: "https://dark-guan.github.io/Dark-Robotic-Blog/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/Dark-Guan/Dark-s-Robotic-Blog.git" # you code repository
+github_repo: "https://github.com/Dark-Guan/Dark-Robotic-Blog.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
